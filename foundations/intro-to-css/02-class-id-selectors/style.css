@@ -1,0 +1,19 @@
+.baseline {
+    background-color: rgb(255,167,167);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bold {
+    font-size: 24px;
+}
+
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
